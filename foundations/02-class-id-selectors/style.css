@@ -1,0 +1,16 @@
+.pink {
+  background-color: pink;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cooler {
+  font-size: 25px;
+}
+#blue {
+  font-size: 35px;
+  color: blue;
+}
+#green {
+  background-color: lightgreen;
+  font-size: 25px;
+  font-weight: bold;
+}

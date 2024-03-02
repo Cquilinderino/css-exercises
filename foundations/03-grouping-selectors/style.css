@@ -1,0 +1,14 @@
+.one {
+  background-color: black;
+  color: white;
+}
+
+.two {
+  background-color: yellow;
+}
+
+.one, .two {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 28px;
+
+}
